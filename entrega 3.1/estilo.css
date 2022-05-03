@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+
+}
+
+.col{
+    padding: 5px;
+    border-style: groove;
+    border-color: lightgreen;
+}
+
+button{
+    text-align: center;
+    padding: 7px;
+    border-style: groove;
+    border-color: rgb(85, 92, 92);
+    font-family: cursive;
+    background-color: lightgrey;
+    width: 150px;
+    font-size: 20px;
+
+}
+
+.row{
+    font-family: cursive;
+    border-style: groove;
+    border-color: lightgreen;
+}
+
+input{
+    width: 20%;
+    border-radius: 0.30em;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid rgb(152, 147, 158);
+    background-color: rgb(254, 251, 255);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: auto;
+    
+}

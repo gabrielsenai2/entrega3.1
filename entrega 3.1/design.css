@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: lightyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    color: rgb(250, 178, 178);
+    background-color: rgb(252, 252, 252);
+    padding: 5px;
+    border-style: solid;
+    border-color: darkseagreen;
+    
+}
+
+li{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+}
+
+
+
+
+
